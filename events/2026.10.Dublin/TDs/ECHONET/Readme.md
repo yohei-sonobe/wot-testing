@@ -4,6 +4,13 @@
 
 ### Remote: 11 devices 
 
+#### Connection
+All devices connect to the event environment by SSH port forwarding through a host that has public IP address.
+
+![ssh port forwarding](./port-forwarding.png)
+
+#### Devices
+
 ![ECHONET remote devices in Ishikawa](./remote_devices.png)
 
 - [Smart Plug (1)](./TDFiles/smartPlug.td.jsonld)

@@ -12,7 +12,7 @@
   "id": "urn:echonet:elapi:Matter-humanDetectionSensor-6-3%40ba0256a6fea6c174",
   "title": "humanDetectionSensor-Matter-humanDetectionSensor-6-3@ba0256a6fea6c174",
   "titles": {
-    "en": "humanDetectionSensor",
+    "en": "humanDetectionSensor-Matter-humanDetectionSensor-6-3@ba0256a6fea6c174",
     "ja": "人体検知センサ"
   },
   "description": "Human detection sensor",
@@ -55,7 +55,7 @@
       },
       "forms": [
         {
-          "href": "http://150.65.230.87:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties/protocol",
+          "href": "http://150.65.179.132:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties/protocol",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -63,7 +63,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties/protocol",
+          "href": "http://150.65.179.132:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties/protocol",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -71,7 +71,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties/protocol",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties/protocol",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -79,7 +79,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties/protocol",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties/protocol",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -106,7 +106,7 @@
       "type": "string",
       "forms": [
         {
-          "href": "http://150.65.230.87:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties/id",
+          "href": "http://150.65.179.132:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties/id",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -114,7 +114,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties/id",
+          "href": "http://150.65.179.132:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties/id",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -122,7 +122,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties/id",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties/id",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -130,7 +130,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties/id",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties/id",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -173,7 +173,7 @@
       },
       "forms": [
         {
-          "href": "http://150.65.230.87:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties/manufacturer",
+          "href": "http://150.65.179.132:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties/manufacturer",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -181,7 +181,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties/manufacturer",
+          "href": "http://150.65.179.132:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties/manufacturer",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -189,7 +189,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties/manufacturer",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties/manufacturer",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -197,7 +197,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties/manufacturer",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties/manufacturer",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -224,7 +224,7 @@
       "type": "string",
       "forms": [
         {
-          "href": "http://150.65.230.87:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties/productCode",
+          "href": "http://150.65.179.132:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties/productCode",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -232,7 +232,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties/productCode",
+          "href": "http://150.65.179.132:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties/productCode",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -240,7 +240,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties/productCode",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties/productCode",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -248,7 +248,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties/productCode",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties/productCode",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -275,7 +275,7 @@
       "type": "boolean",
       "forms": [
         {
-          "href": "http://150.65.230.87:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties/detection",
+          "href": "http://150.65.179.132:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties/detection",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -283,41 +283,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties/detection/observable",
-          "contentType": "application/json",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.230.87:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties/detection",
-          "contentType": "application/cbor",
-          "op": [
-            "readproperty"
-          ],
-          "htv:methodName": "GET"
-        },
-        {
-          "href": "http://150.65.230.87:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties/detection/observable",
-          "contentType": "application/cbor",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties/detection",
-          "contentType": "application/json",
-          "op": [
-            "readproperty"
-          ],
-          "htv:methodName": "GET"
-        },
-        {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties/detection/observable",
+          "href": "http://150.65.179.132:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties/detection/observable",
           "contentType": "application/json",
           "op": [
             "observeproperty",
@@ -326,7 +292,7 @@
           "subprotocol": "longpoll"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties/detection",
+          "href": "http://150.65.179.132:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties/detection",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -334,7 +300,41 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties/detection/observable",
+          "href": "http://150.65.179.132:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties/detection/observable",
+          "contentType": "application/cbor",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties/detection",
+          "contentType": "application/json",
+          "op": [
+            "readproperty"
+          ],
+          "htv:methodName": "GET"
+        },
+        {
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties/detection/observable",
+          "contentType": "application/json",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties/detection",
+          "contentType": "application/cbor",
+          "op": [
+            "readproperty"
+          ],
+          "htv:methodName": "GET"
+        },
+        {
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties/detection/observable",
           "contentType": "application/cbor",
           "op": [
             "observeproperty",
@@ -347,7 +347,7 @@
   },
   "forms": [
     {
-      "href": "http://150.65.230.87:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties",
+      "href": "http://150.65.179.132:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties",
       "contentType": "application/json",
       "op": [
         "readallproperties",
@@ -355,7 +355,7 @@
       ]
     },
     {
-      "href": "http://150.65.230.87:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties",
+      "href": "http://150.65.179.132:8080/humandetectionsensor-matter-humandetectionsensor-6-3%40ba0256a6fea6c174/properties",
       "contentType": "application/cbor",
       "op": [
         "readallproperties",
@@ -363,7 +363,7 @@
       ]
     },
     {
-      "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties",
+      "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties",
       "contentType": "application/json",
       "op": [
         "readallproperties",
@@ -371,7 +371,7 @@
       ]
     },
     {
-      "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties",
+      "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-humanDetectionSensor-6-3%2540ba0256a6fea6c174/properties",
       "contentType": "application/cbor",
       "op": [
         "readallproperties",

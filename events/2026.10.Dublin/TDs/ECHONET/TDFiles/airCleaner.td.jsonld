@@ -12,7 +12,7 @@
   "id": "urn:echonet:elapi:C0A80B06-013501%40ba0256a6fea6c174",
   "title": "airCleaner-C0A80B06-013501@ba0256a6fea6c174",
   "titles": {
-    "en": "airCleaner",
+    "en": "airCleaner-C0A80B06-013501@ba0256a6fea6c174",
     "ja": "空気清浄器"
   },
   "description": "Air cleaner",
@@ -47,7 +47,7 @@
       "type": "boolean",
       "forms": [
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/operationStatus",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/operationStatus",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -55,41 +55,7 @@
           ]
         },
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/operationStatus/observable",
-          "contentType": "application/json",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/operationStatus",
-          "contentType": "application/cbor",
-          "op": [
-            "readproperty",
-            "writeproperty"
-          ]
-        },
-        {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/operationStatus/observable",
-          "contentType": "application/cbor",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/operationStatus",
-          "contentType": "application/json",
-          "op": [
-            "readproperty",
-            "writeproperty"
-          ]
-        },
-        {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/operationStatus/observable",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/operationStatus/observable",
           "contentType": "application/json",
           "op": [
             "observeproperty",
@@ -98,7 +64,7 @@
           "subprotocol": "longpoll"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/operationStatus",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/operationStatus",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -106,7 +72,41 @@
           ]
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/operationStatus/observable",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/operationStatus/observable",
+          "contentType": "application/cbor",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/operationStatus",
+          "contentType": "application/json",
+          "op": [
+            "readproperty",
+            "writeproperty"
+          ]
+        },
+        {
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/operationStatus/observable",
+          "contentType": "application/json",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/operationStatus",
+          "contentType": "application/cbor",
+          "op": [
+            "readproperty",
+            "writeproperty"
+          ]
+        },
+        {
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/operationStatus/observable",
           "contentType": "application/cbor",
           "op": [
             "observeproperty",
@@ -134,7 +134,7 @@
       "type": "string",
       "forms": [
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/installationLocation",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/installationLocation",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -142,41 +142,7 @@
           ]
         },
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/installationLocation/observable",
-          "contentType": "application/json",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/installationLocation",
-          "contentType": "application/cbor",
-          "op": [
-            "readproperty",
-            "writeproperty"
-          ]
-        },
-        {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/installationLocation/observable",
-          "contentType": "application/cbor",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/installationLocation",
-          "contentType": "application/json",
-          "op": [
-            "readproperty",
-            "writeproperty"
-          ]
-        },
-        {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/installationLocation/observable",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/installationLocation/observable",
           "contentType": "application/json",
           "op": [
             "observeproperty",
@@ -185,7 +151,7 @@
           "subprotocol": "longpoll"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/installationLocation",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/installationLocation",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -193,7 +159,41 @@
           ]
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/installationLocation/observable",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/installationLocation/observable",
+          "contentType": "application/cbor",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/installationLocation",
+          "contentType": "application/json",
+          "op": [
+            "readproperty",
+            "writeproperty"
+          ]
+        },
+        {
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/installationLocation/observable",
+          "contentType": "application/json",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/installationLocation",
+          "contentType": "application/cbor",
+          "op": [
+            "readproperty",
+            "writeproperty"
+          ]
+        },
+        {
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/installationLocation/observable",
           "contentType": "application/cbor",
           "op": [
             "observeproperty",
@@ -229,7 +229,7 @@
       },
       "forms": [
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/protocol",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/protocol",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -237,7 +237,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/protocol",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/protocol",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -245,7 +245,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/protocol",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/protocol",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -253,7 +253,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/protocol",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/protocol",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -283,7 +283,7 @@
       "maximum": 65533,
       "forms": [
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/instantaneousElectricPowerConsumption",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/instantaneousElectricPowerConsumption",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -291,7 +291,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/instantaneousElectricPowerConsumption",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/instantaneousElectricPowerConsumption",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -299,7 +299,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/instantaneousElectricPowerConsumption",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/instantaneousElectricPowerConsumption",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -307,7 +307,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/instantaneousElectricPowerConsumption",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/instantaneousElectricPowerConsumption",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -337,7 +337,7 @@
       "maximum": 999999.999,
       "forms": [
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/consumedCumulativeElectricEnergy",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/consumedCumulativeElectricEnergy",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -345,7 +345,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/consumedCumulativeElectricEnergy",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/consumedCumulativeElectricEnergy",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -353,7 +353,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/consumedCumulativeElectricEnergy",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/consumedCumulativeElectricEnergy",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -361,7 +361,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/consumedCumulativeElectricEnergy",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/consumedCumulativeElectricEnergy",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -388,7 +388,7 @@
       "type": "string",
       "forms": [
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/manufacturerFaultCode",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/manufacturerFaultCode",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -396,7 +396,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/manufacturerFaultCode",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/manufacturerFaultCode",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -404,7 +404,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/manufacturerFaultCode",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/manufacturerFaultCode",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -412,7 +412,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/manufacturerFaultCode",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/manufacturerFaultCode",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -439,7 +439,7 @@
       "type": "boolean",
       "forms": [
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/faultStatus",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/faultStatus",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -447,41 +447,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/faultStatus/observable",
-          "contentType": "application/json",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/faultStatus",
-          "contentType": "application/cbor",
-          "op": [
-            "readproperty"
-          ],
-          "htv:methodName": "GET"
-        },
-        {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/faultStatus/observable",
-          "contentType": "application/cbor",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/faultStatus",
-          "contentType": "application/json",
-          "op": [
-            "readproperty"
-          ],
-          "htv:methodName": "GET"
-        },
-        {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/faultStatus/observable",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/faultStatus/observable",
           "contentType": "application/json",
           "op": [
             "observeproperty",
@@ -490,7 +456,7 @@
           "subprotocol": "longpoll"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/faultStatus",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/faultStatus",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -498,7 +464,41 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/faultStatus/observable",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/faultStatus/observable",
+          "contentType": "application/cbor",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/faultStatus",
+          "contentType": "application/json",
+          "op": [
+            "readproperty"
+          ],
+          "htv:methodName": "GET"
+        },
+        {
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/faultStatus/observable",
+          "contentType": "application/json",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/faultStatus",
+          "contentType": "application/cbor",
+          "op": [
+            "readproperty"
+          ],
+          "htv:methodName": "GET"
+        },
+        {
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/faultStatus/observable",
           "contentType": "application/cbor",
           "op": [
             "observeproperty",
@@ -544,7 +544,7 @@
       ],
       "forms": [
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/faultDescription",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/faultDescription",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -552,7 +552,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/faultDescription",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/faultDescription",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -560,7 +560,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/faultDescription",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/faultDescription",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -568,7 +568,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/faultDescription",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/faultDescription",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -611,7 +611,7 @@
       },
       "forms": [
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/manufacturer",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/manufacturer",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -619,7 +619,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/manufacturer",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/manufacturer",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -627,7 +627,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/manufacturer",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/manufacturer",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -635,7 +635,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/manufacturer",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/manufacturer",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -662,7 +662,7 @@
       "type": "string",
       "forms": [
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/businessFacilityCode",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/businessFacilityCode",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -670,7 +670,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/businessFacilityCode",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/businessFacilityCode",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -678,7 +678,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/businessFacilityCode",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/businessFacilityCode",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -686,7 +686,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/businessFacilityCode",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/businessFacilityCode",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -713,7 +713,7 @@
       "type": "string",
       "forms": [
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/productCode",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/productCode",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -721,7 +721,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/productCode",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/productCode",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -729,7 +729,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/productCode",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/productCode",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -737,7 +737,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/productCode",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/productCode",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -776,7 +776,7 @@
       ],
       "forms": [
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/airFlowLevel",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/airFlowLevel",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -784,7 +784,7 @@
           ]
         },
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/airFlowLevel",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/airFlowLevel",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -792,7 +792,7 @@
           ]
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/airFlowLevel",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/airFlowLevel",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -800,7 +800,7 @@
           ]
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/airFlowLevel",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/airFlowLevel",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -827,7 +827,7 @@
       "type": "boolean",
       "forms": [
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/airPollutionDetection",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/airPollutionDetection",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -835,7 +835,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/airPollutionDetection",
+          "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties/airPollutionDetection",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -843,7 +843,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/airPollutionDetection",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/airPollutionDetection",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -851,7 +851,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/airPollutionDetection",
+          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties/airPollutionDetection",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -863,7 +863,7 @@
   },
   "forms": [
     {
-      "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties",
+      "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties",
       "contentType": "application/json",
       "op": [
         "readallproperties",
@@ -873,7 +873,7 @@
       ]
     },
     {
-      "href": "http://150.65.230.87:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties",
+      "href": "http://150.65.179.132:8080/aircleaner-c0a80b06-013501%40ba0256a6fea6c174/properties",
       "contentType": "application/cbor",
       "op": [
         "readallproperties",
@@ -883,7 +883,7 @@
       ]
     },
     {
-      "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties",
+      "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties",
       "contentType": "application/json",
       "op": [
         "readallproperties",
@@ -893,7 +893,7 @@
       ]
     },
     {
-      "href": "http://150.65.230.87:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties",
+      "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B06-013501%2540ba0256a6fea6c174/properties",
       "contentType": "application/cbor",
       "op": [
         "readallproperties",
