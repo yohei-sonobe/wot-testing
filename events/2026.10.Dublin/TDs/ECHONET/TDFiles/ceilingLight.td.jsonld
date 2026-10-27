@@ -47,7 +47,7 @@
       "type": "boolean",
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/operationStatus",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/operationStatus",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -55,41 +55,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/operationStatus/observable",
-          "contentType": "application/json",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/operationStatus",
-          "contentType": "application/cbor",
-          "op": [
-            "readproperty",
-            "writeproperty"
-          ]
-        },
-        {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/operationStatus/observable",
-          "contentType": "application/cbor",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/operationStatus",
-          "contentType": "application/json",
-          "op": [
-            "readproperty",
-            "writeproperty"
-          ]
-        },
-        {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/operationStatus/observable",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/operationStatus/observable",
           "contentType": "application/json",
           "op": [
             "observeproperty",
@@ -98,7 +64,7 @@
           "subprotocol": "longpoll"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/operationStatus",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/operationStatus",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -106,7 +72,41 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/operationStatus/observable",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/operationStatus/observable",
+          "contentType": "application/cbor",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/operationStatus",
+          "contentType": "application/json",
+          "op": [
+            "readproperty",
+            "writeproperty"
+          ]
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/operationStatus/observable",
+          "contentType": "application/json",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/operationStatus",
+          "contentType": "application/cbor",
+          "op": [
+            "readproperty",
+            "writeproperty"
+          ]
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/operationStatus/observable",
           "contentType": "application/cbor",
           "op": [
             "observeproperty",
@@ -134,7 +134,7 @@
       "type": "string",
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/installationLocation",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/installationLocation",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -142,41 +142,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/installationLocation/observable",
-          "contentType": "application/json",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/installationLocation",
-          "contentType": "application/cbor",
-          "op": [
-            "readproperty",
-            "writeproperty"
-          ]
-        },
-        {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/installationLocation/observable",
-          "contentType": "application/cbor",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/installationLocation",
-          "contentType": "application/json",
-          "op": [
-            "readproperty",
-            "writeproperty"
-          ]
-        },
-        {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/installationLocation/observable",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/installationLocation/observable",
           "contentType": "application/json",
           "op": [
             "observeproperty",
@@ -185,7 +151,7 @@
           "subprotocol": "longpoll"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/installationLocation",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/installationLocation",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -193,7 +159,41 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/installationLocation/observable",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/installationLocation/observable",
+          "contentType": "application/cbor",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/installationLocation",
+          "contentType": "application/json",
+          "op": [
+            "readproperty",
+            "writeproperty"
+          ]
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/installationLocation/observable",
+          "contentType": "application/json",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/installationLocation",
+          "contentType": "application/cbor",
+          "op": [
+            "readproperty",
+            "writeproperty"
+          ]
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/installationLocation/observable",
           "contentType": "application/cbor",
           "op": [
             "observeproperty",
@@ -229,7 +229,7 @@
       },
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/protocol",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/protocol",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -237,7 +237,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/protocol",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/protocol",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -245,7 +245,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/protocol",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/protocol",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -253,7 +253,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/protocol",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/protocol",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -283,7 +283,7 @@
       "maximum": 65533,
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/instantaneousElectricPowerConsumption",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/instantaneousElectricPowerConsumption",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -291,7 +291,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/instantaneousElectricPowerConsumption",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/instantaneousElectricPowerConsumption",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -299,7 +299,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/instantaneousElectricPowerConsumption",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/instantaneousElectricPowerConsumption",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -307,7 +307,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/instantaneousElectricPowerConsumption",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/instantaneousElectricPowerConsumption",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -334,7 +334,7 @@
       "type": "string",
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/manufacturerFaultCode",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/manufacturerFaultCode",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -342,7 +342,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/manufacturerFaultCode",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/manufacturerFaultCode",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -350,7 +350,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/manufacturerFaultCode",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/manufacturerFaultCode",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -358,7 +358,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/manufacturerFaultCode",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/manufacturerFaultCode",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -385,7 +385,7 @@
       "type": "boolean",
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/faultStatus",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/faultStatus",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -393,41 +393,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/faultStatus/observable",
-          "contentType": "application/json",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/faultStatus",
-          "contentType": "application/cbor",
-          "op": [
-            "readproperty"
-          ],
-          "htv:methodName": "GET"
-        },
-        {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/faultStatus/observable",
-          "contentType": "application/cbor",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/faultStatus",
-          "contentType": "application/json",
-          "op": [
-            "readproperty"
-          ],
-          "htv:methodName": "GET"
-        },
-        {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/faultStatus/observable",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/faultStatus/observable",
           "contentType": "application/json",
           "op": [
             "observeproperty",
@@ -436,7 +402,7 @@
           "subprotocol": "longpoll"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/faultStatus",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/faultStatus",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -444,7 +410,41 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/faultStatus/observable",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/faultStatus/observable",
+          "contentType": "application/cbor",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/faultStatus",
+          "contentType": "application/json",
+          "op": [
+            "readproperty"
+          ],
+          "htv:methodName": "GET"
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/faultStatus/observable",
+          "contentType": "application/json",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/faultStatus",
+          "contentType": "application/cbor",
+          "op": [
+            "readproperty"
+          ],
+          "htv:methodName": "GET"
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/faultStatus/observable",
           "contentType": "application/cbor",
           "op": [
             "observeproperty",
@@ -490,7 +490,7 @@
       ],
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/faultDescription",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/faultDescription",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -498,7 +498,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/faultDescription",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/faultDescription",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -506,7 +506,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/faultDescription",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/faultDescription",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -514,7 +514,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/faultDescription",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/faultDescription",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -557,7 +557,7 @@
       },
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/manufacturer",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/manufacturer",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -565,7 +565,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/manufacturer",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/manufacturer",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -573,7 +573,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/manufacturer",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/manufacturer",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -581,7 +581,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/manufacturer",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/manufacturer",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -608,7 +608,7 @@
       "type": "string",
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/businessFacilityCode",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/businessFacilityCode",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -616,7 +616,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/businessFacilityCode",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/businessFacilityCode",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -624,7 +624,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/businessFacilityCode",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/businessFacilityCode",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -632,7 +632,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/businessFacilityCode",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/businessFacilityCode",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -659,7 +659,7 @@
       "type": "string",
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/productCode",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/productCode",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -667,7 +667,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/productCode",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/productCode",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -675,7 +675,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/productCode",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/productCode",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -683,7 +683,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/productCode",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/productCode",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -710,7 +710,7 @@
       "type": "string",
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/serialNumber",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/serialNumber",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -718,7 +718,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/serialNumber",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/serialNumber",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -726,7 +726,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/serialNumber",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/serialNumber",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -734,7 +734,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/serialNumber",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/serialNumber",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -762,7 +762,7 @@
       "format": "date",
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/productionDate",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/productionDate",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -770,7 +770,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/productionDate",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/productionDate",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -778,7 +778,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/productionDate",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/productionDate",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -786,7 +786,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/productionDate",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/productionDate",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -813,7 +813,7 @@
       "type": "boolean",
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/powerSaving",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/powerSaving",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -821,7 +821,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/powerSaving",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/powerSaving",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -829,7 +829,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/powerSaving",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/powerSaving",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -837,7 +837,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/powerSaving",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/powerSaving",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -872,7 +872,7 @@
       ],
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightColor",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightColor",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -880,7 +880,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightColor",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightColor",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -888,7 +888,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightColor",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightColor",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -896,7 +896,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightColor",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightColor",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -923,7 +923,7 @@
       "type": "string",
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightLevelStep",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightLevelStep",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -931,7 +931,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightLevelStep",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightLevelStep",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -939,7 +939,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightLevelStep",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightLevelStep",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -947,7 +947,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightLevelStep",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightLevelStep",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -974,7 +974,7 @@
       "type": "string",
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightColorLevelStep",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightColorLevelStep",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -982,7 +982,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightColorLevelStep",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightColorLevelStep",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -990,7 +990,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightColorLevelStep",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightColorLevelStep",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -998,7 +998,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightColorLevelStep",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightColorLevelStep",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -1065,7 +1065,7 @@
       },
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/maximumSpecifiableLevel",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/maximumSpecifiableLevel",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -1073,7 +1073,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/maximumSpecifiableLevel",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/maximumSpecifiableLevel",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -1081,7 +1081,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/maximumSpecifiableLevel",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/maximumSpecifiableLevel",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -1089,7 +1089,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/maximumSpecifiableLevel",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/maximumSpecifiableLevel",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -1156,7 +1156,7 @@
       },
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/maximumSettableLevelForNightLighting",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/maximumSettableLevelForNightLighting",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -1164,7 +1164,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/maximumSettableLevelForNightLighting",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/maximumSettableLevelForNightLighting",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -1172,7 +1172,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/maximumSettableLevelForNightLighting",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/maximumSettableLevelForNightLighting",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -1180,7 +1180,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/maximumSettableLevelForNightLighting",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/maximumSettableLevelForNightLighting",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -1213,7 +1213,7 @@
       ],
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/operationMode",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/operationMode",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -1221,7 +1221,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/operationMode",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/operationMode",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -1229,7 +1229,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/operationMode",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/operationMode",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -1237,7 +1237,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/operationMode",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/operationMode",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -1267,7 +1267,7 @@
       "maximum": 100,
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightLevelForMainLighting",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightLevelForMainLighting",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -1275,7 +1275,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightLevelForMainLighting",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightLevelForMainLighting",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -1283,7 +1283,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightLevelForMainLighting",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightLevelForMainLighting",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -1291,7 +1291,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightLevelForMainLighting",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightLevelForMainLighting",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -1318,7 +1318,7 @@
       "type": "string",
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightLevelStepForMainLighting",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightLevelStepForMainLighting",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -1326,7 +1326,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightLevelStepForMainLighting",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightLevelStepForMainLighting",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -1334,7 +1334,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightLevelStepForMainLighting",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightLevelStepForMainLighting",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -1342,7 +1342,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightLevelStepForMainLighting",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightLevelStepForMainLighting",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -1372,7 +1372,7 @@
       "maximum": 100,
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightLevelForNightLighting",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightLevelForNightLighting",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -1380,7 +1380,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightLevelForNightLighting",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightLevelForNightLighting",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -1388,7 +1388,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightLevelForNightLighting",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightLevelForNightLighting",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -1396,7 +1396,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightLevelForNightLighting",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightLevelForNightLighting",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -1423,7 +1423,7 @@
       "type": "string",
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightLevelStepForNightLighting",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightLevelStepForNightLighting",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -1431,7 +1431,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightLevelStepForNightLighting",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightLevelStepForNightLighting",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -1439,7 +1439,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightLevelStepForNightLighting",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightLevelStepForNightLighting",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -1447,7 +1447,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightLevelStepForNightLighting",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightLevelStepForNightLighting",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -1481,7 +1481,7 @@
       ],
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightColorForMainLighting",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightColorForMainLighting",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -1489,7 +1489,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightColorForMainLighting",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightColorForMainLighting",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -1497,7 +1497,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightColorForMainLighting",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightColorForMainLighting",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -1505,7 +1505,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightColorForMainLighting",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightColorForMainLighting",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -1532,7 +1532,7 @@
       "type": "string",
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightColorLevelStepForMainLighting",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightColorLevelStepForMainLighting",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -1540,7 +1540,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightColorLevelStepForMainLighting",
+          "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties/lightColorLevelStepForMainLighting",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -1548,7 +1548,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightColorLevelStepForMainLighting",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightColorLevelStepForMainLighting",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -1556,7 +1556,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightColorLevelStepForMainLighting",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties/lightColorLevelStepForMainLighting",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -1568,7 +1568,7 @@
   },
   "forms": [
     {
-      "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties",
+      "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties",
       "contentType": "application/json",
       "op": [
         "readallproperties",
@@ -1578,7 +1578,7 @@
       ]
     },
     {
-      "href": "http://150.65.179.132:8080/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties",
+      "href": "http://192.168.100.51/generallighting-c0a80b08-029001%40ba0256a6fea6c174/properties",
       "contentType": "application/cbor",
       "op": [
         "readallproperties",
@@ -1588,7 +1588,7 @@
       ]
     },
     {
-      "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties",
+      "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties",
       "contentType": "application/json",
       "op": [
         "readallproperties",
@@ -1598,7 +1598,7 @@
       ]
     },
     {
-      "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties",
+      "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B08-029001%2540ba0256a6fea6c174/properties",
       "contentType": "application/cbor",
       "op": [
         "readallproperties",

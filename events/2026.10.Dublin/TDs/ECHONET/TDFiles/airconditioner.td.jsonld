@@ -47,7 +47,7 @@
       "type": "boolean",
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/operationStatus",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/operationStatus",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -55,41 +55,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/operationStatus/observable",
-          "contentType": "application/json",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/operationStatus",
-          "contentType": "application/cbor",
-          "op": [
-            "readproperty",
-            "writeproperty"
-          ]
-        },
-        {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/operationStatus/observable",
-          "contentType": "application/cbor",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/operationStatus",
-          "contentType": "application/json",
-          "op": [
-            "readproperty",
-            "writeproperty"
-          ]
-        },
-        {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/operationStatus/observable",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/operationStatus/observable",
           "contentType": "application/json",
           "op": [
             "observeproperty",
@@ -98,7 +64,7 @@
           "subprotocol": "longpoll"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/operationStatus",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/operationStatus",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -106,7 +72,41 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/operationStatus/observable",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/operationStatus/observable",
+          "contentType": "application/cbor",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/operationStatus",
+          "contentType": "application/json",
+          "op": [
+            "readproperty",
+            "writeproperty"
+          ]
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/operationStatus/observable",
+          "contentType": "application/json",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/operationStatus",
+          "contentType": "application/cbor",
+          "op": [
+            "readproperty",
+            "writeproperty"
+          ]
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/operationStatus/observable",
           "contentType": "application/cbor",
           "op": [
             "observeproperty",
@@ -134,7 +134,7 @@
       "type": "string",
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/installationLocation",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/installationLocation",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -142,41 +142,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/installationLocation/observable",
-          "contentType": "application/json",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/installationLocation",
-          "contentType": "application/cbor",
-          "op": [
-            "readproperty",
-            "writeproperty"
-          ]
-        },
-        {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/installationLocation/observable",
-          "contentType": "application/cbor",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/installationLocation",
-          "contentType": "application/json",
-          "op": [
-            "readproperty",
-            "writeproperty"
-          ]
-        },
-        {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/installationLocation/observable",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/installationLocation/observable",
           "contentType": "application/json",
           "op": [
             "observeproperty",
@@ -185,7 +151,7 @@
           "subprotocol": "longpoll"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/installationLocation",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/installationLocation",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -193,7 +159,41 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/installationLocation/observable",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/installationLocation/observable",
+          "contentType": "application/cbor",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/installationLocation",
+          "contentType": "application/json",
+          "op": [
+            "readproperty",
+            "writeproperty"
+          ]
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/installationLocation/observable",
+          "contentType": "application/json",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/installationLocation",
+          "contentType": "application/cbor",
+          "op": [
+            "readproperty",
+            "writeproperty"
+          ]
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/installationLocation/observable",
           "contentType": "application/cbor",
           "op": [
             "observeproperty",
@@ -229,7 +229,7 @@
       },
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/protocol",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/protocol",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -237,7 +237,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/protocol",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/protocol",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -245,7 +245,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/protocol",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/protocol",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -253,7 +253,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/protocol",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/protocol",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -283,7 +283,7 @@
       "maximum": 65533,
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/instantaneousElectricPowerConsumption",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/instantaneousElectricPowerConsumption",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -291,7 +291,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/instantaneousElectricPowerConsumption",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/instantaneousElectricPowerConsumption",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -299,7 +299,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/instantaneousElectricPowerConsumption",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/instantaneousElectricPowerConsumption",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -307,7 +307,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/instantaneousElectricPowerConsumption",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/instantaneousElectricPowerConsumption",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -337,7 +337,7 @@
       "maximum": 999999.999,
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/consumedCumulativeElectricEnergy",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/consumedCumulativeElectricEnergy",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -345,7 +345,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/consumedCumulativeElectricEnergy",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/consumedCumulativeElectricEnergy",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -353,7 +353,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/consumedCumulativeElectricEnergy",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/consumedCumulativeElectricEnergy",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -361,7 +361,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/consumedCumulativeElectricEnergy",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/consumedCumulativeElectricEnergy",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -388,7 +388,7 @@
       "type": "string",
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/manufacturerFaultCode",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/manufacturerFaultCode",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -396,7 +396,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/manufacturerFaultCode",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/manufacturerFaultCode",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -404,7 +404,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/manufacturerFaultCode",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/manufacturerFaultCode",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -412,7 +412,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/manufacturerFaultCode",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/manufacturerFaultCode",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -439,7 +439,7 @@
       "type": "boolean",
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/faultStatus",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/faultStatus",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -447,41 +447,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/faultStatus/observable",
-          "contentType": "application/json",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/faultStatus",
-          "contentType": "application/cbor",
-          "op": [
-            "readproperty"
-          ],
-          "htv:methodName": "GET"
-        },
-        {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/faultStatus/observable",
-          "contentType": "application/cbor",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/faultStatus",
-          "contentType": "application/json",
-          "op": [
-            "readproperty"
-          ],
-          "htv:methodName": "GET"
-        },
-        {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/faultStatus/observable",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/faultStatus/observable",
           "contentType": "application/json",
           "op": [
             "observeproperty",
@@ -490,7 +456,7 @@
           "subprotocol": "longpoll"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/faultStatus",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/faultStatus",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -498,7 +464,41 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/faultStatus/observable",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/faultStatus/observable",
+          "contentType": "application/cbor",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/faultStatus",
+          "contentType": "application/json",
+          "op": [
+            "readproperty"
+          ],
+          "htv:methodName": "GET"
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/faultStatus/observable",
+          "contentType": "application/json",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/faultStatus",
+          "contentType": "application/cbor",
+          "op": [
+            "readproperty"
+          ],
+          "htv:methodName": "GET"
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/faultStatus/observable",
           "contentType": "application/cbor",
           "op": [
             "observeproperty",
@@ -544,7 +544,7 @@
       ],
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/faultDescription",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/faultDescription",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -552,7 +552,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/faultDescription",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/faultDescription",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -560,7 +560,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/faultDescription",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/faultDescription",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -568,7 +568,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/faultDescription",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/faultDescription",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -611,7 +611,7 @@
       },
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/manufacturer",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/manufacturer",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -619,7 +619,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/manufacturer",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/manufacturer",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -627,7 +627,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/manufacturer",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/manufacturer",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -635,7 +635,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/manufacturer",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/manufacturer",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -662,7 +662,7 @@
       "type": "string",
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/businessFacilityCode",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/businessFacilityCode",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -670,7 +670,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/businessFacilityCode",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/businessFacilityCode",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -678,7 +678,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/businessFacilityCode",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/businessFacilityCode",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -686,7 +686,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/businessFacilityCode",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/businessFacilityCode",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -713,7 +713,7 @@
       "type": "string",
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/productCode",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/productCode",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -721,7 +721,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/productCode",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/productCode",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -729,7 +729,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/productCode",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/productCode",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -737,7 +737,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/productCode",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/productCode",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -764,7 +764,7 @@
       "type": "boolean",
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/powerSaving",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/powerSaving",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -772,7 +772,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/powerSaving",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/powerSaving",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -780,7 +780,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/powerSaving",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/powerSaving",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -788,7 +788,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/powerSaving",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/powerSaving",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -827,7 +827,7 @@
       ],
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/airFlowLevel",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/airFlowLevel",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -835,41 +835,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/airFlowLevel/observable",
-          "contentType": "application/json",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/airFlowLevel",
-          "contentType": "application/cbor",
-          "op": [
-            "readproperty",
-            "writeproperty"
-          ]
-        },
-        {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/airFlowLevel/observable",
-          "contentType": "application/cbor",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/airFlowLevel",
-          "contentType": "application/json",
-          "op": [
-            "readproperty",
-            "writeproperty"
-          ]
-        },
-        {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/airFlowLevel/observable",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/airFlowLevel/observable",
           "contentType": "application/json",
           "op": [
             "observeproperty",
@@ -878,7 +844,7 @@
           "subprotocol": "longpoll"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/airFlowLevel",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/airFlowLevel",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -886,7 +852,41 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/airFlowLevel/observable",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/airFlowLevel/observable",
+          "contentType": "application/cbor",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/airFlowLevel",
+          "contentType": "application/json",
+          "op": [
+            "readproperty",
+            "writeproperty"
+          ]
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/airFlowLevel/observable",
+          "contentType": "application/json",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/airFlowLevel",
+          "contentType": "application/cbor",
+          "op": [
+            "readproperty",
+            "writeproperty"
+          ]
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/airFlowLevel/observable",
           "contentType": "application/cbor",
           "op": [
             "observeproperty",
@@ -920,7 +920,7 @@
       ],
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/automaticControlAirFlowDirection",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/automaticControlAirFlowDirection",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -928,7 +928,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/automaticControlAirFlowDirection",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/automaticControlAirFlowDirection",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -936,7 +936,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/automaticControlAirFlowDirection",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/automaticControlAirFlowDirection",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -944,7 +944,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/automaticControlAirFlowDirection",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/automaticControlAirFlowDirection",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -979,7 +979,7 @@
       ],
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/operationMode",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/operationMode",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -987,41 +987,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/operationMode/observable",
-          "contentType": "application/json",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/operationMode",
-          "contentType": "application/cbor",
-          "op": [
-            "readproperty",
-            "writeproperty"
-          ]
-        },
-        {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/operationMode/observable",
-          "contentType": "application/cbor",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/operationMode",
-          "contentType": "application/json",
-          "op": [
-            "readproperty",
-            "writeproperty"
-          ]
-        },
-        {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/operationMode/observable",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/operationMode/observable",
           "contentType": "application/json",
           "op": [
             "observeproperty",
@@ -1030,7 +996,7 @@
           "subprotocol": "longpoll"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/operationMode",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/operationMode",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -1038,7 +1004,41 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/operationMode/observable",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/operationMode/observable",
+          "contentType": "application/cbor",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/operationMode",
+          "contentType": "application/json",
+          "op": [
+            "readproperty",
+            "writeproperty"
+          ]
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/operationMode/observable",
+          "contentType": "application/json",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/operationMode",
+          "contentType": "application/cbor",
+          "op": [
+            "readproperty",
+            "writeproperty"
+          ]
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/operationMode/observable",
           "contentType": "application/cbor",
           "op": [
             "observeproperty",
@@ -1079,7 +1079,7 @@
       ],
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/targetTemperature",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/targetTemperature",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -1087,7 +1087,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/targetTemperature",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/targetTemperature",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -1095,7 +1095,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/targetTemperature",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/targetTemperature",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -1103,7 +1103,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/targetTemperature",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/targetTemperature",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -1143,7 +1143,7 @@
       ],
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/humidity",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/humidity",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -1151,7 +1151,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/humidity",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/humidity",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -1159,7 +1159,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/humidity",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/humidity",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -1167,7 +1167,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/humidity",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/humidity",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -1207,7 +1207,7 @@
       ],
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/roomTemperature",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/roomTemperature",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -1215,7 +1215,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/roomTemperature",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/roomTemperature",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -1223,7 +1223,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/roomTemperature",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/roomTemperature",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -1231,7 +1231,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/roomTemperature",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/roomTemperature",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -1271,7 +1271,7 @@
       ],
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/outdoorTemperature",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/outdoorTemperature",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -1279,7 +1279,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/outdoorTemperature",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/outdoorTemperature",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -1287,7 +1287,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/outdoorTemperature",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/outdoorTemperature",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -1295,7 +1295,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/outdoorTemperature",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/outdoorTemperature",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -1374,7 +1374,7 @@
       },
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/airCleaningMethod",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/airCleaningMethod",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -1382,7 +1382,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/airCleaningMethod",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/airCleaningMethod",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -1390,7 +1390,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/airCleaningMethod",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/airCleaningMethod",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -1398,7 +1398,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/airCleaningMethod",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/airCleaningMethod",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -1429,7 +1429,7 @@
       ],
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/airPurification",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/airPurification",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -1437,7 +1437,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/airPurification",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties/airPurification",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -1445,7 +1445,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/airPurification",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/airPurification",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -1453,7 +1453,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/airPurification",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties/airPurification",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -1494,7 +1494,7 @@
       },
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/actions/beepBuzzer",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/actions/beepBuzzer",
           "contentType": "application/json",
           "op": [
             "invokeaction"
@@ -1502,7 +1502,7 @@
           "htv:methodName": "POST"
         },
         {
-          "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/actions/beepBuzzer",
+          "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/actions/beepBuzzer",
           "contentType": "application/cbor",
           "op": [
             "invokeaction"
@@ -1510,7 +1510,7 @@
           "htv:methodName": "POST"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/actions/beepBuzzer",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/actions/beepBuzzer",
           "contentType": "application/json",
           "op": [
             "invokeaction"
@@ -1518,7 +1518,7 @@
           "htv:methodName": "POST"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/actions/beepBuzzer",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/actions/beepBuzzer",
           "contentType": "application/cbor",
           "op": [
             "invokeaction"
@@ -1532,7 +1532,7 @@
   },
   "forms": [
     {
-      "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties",
+      "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties",
       "contentType": "application/json",
       "op": [
         "readallproperties",
@@ -1542,7 +1542,7 @@
       ]
     },
     {
-      "href": "http://150.65.179.132:8080/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties",
+      "href": "http://192.168.100.51/homeairconditioner-c0a80b03-013001%40ba0256a6fea6c174/properties",
       "contentType": "application/cbor",
       "op": [
         "readallproperties",
@@ -1552,7 +1552,7 @@
       ]
     },
     {
-      "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties",
+      "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties",
       "contentType": "application/json",
       "op": [
         "readallproperties",
@@ -1562,7 +1562,7 @@
       ]
     },
     {
-      "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties",
+      "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AC0A80B03-013001%2540ba0256a6fea6c174/properties",
       "contentType": "application/cbor",
       "op": [
         "readallproperties",

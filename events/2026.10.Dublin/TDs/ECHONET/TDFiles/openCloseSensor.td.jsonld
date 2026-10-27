@@ -55,7 +55,7 @@
       },
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties/protocol",
+          "href": "http://192.168.100.51/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties/protocol",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -63,7 +63,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties/protocol",
+          "href": "http://192.168.100.51/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties/protocol",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -71,7 +71,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties/protocol",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties/protocol",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -79,7 +79,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties/protocol",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties/protocol",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -106,7 +106,7 @@
       "type": "string",
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties/id",
+          "href": "http://192.168.100.51/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties/id",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -114,7 +114,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties/id",
+          "href": "http://192.168.100.51/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties/id",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -122,7 +122,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties/id",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties/id",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -130,7 +130,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties/id",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties/id",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -173,7 +173,7 @@
       },
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties/manufacturer",
+          "href": "http://192.168.100.51/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties/manufacturer",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -181,7 +181,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties/manufacturer",
+          "href": "http://192.168.100.51/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties/manufacturer",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -189,7 +189,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties/manufacturer",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties/manufacturer",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -197,7 +197,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties/manufacturer",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties/manufacturer",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -224,7 +224,7 @@
       "type": "string",
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties/productCode",
+          "href": "http://192.168.100.51/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties/productCode",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -232,7 +232,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties/productCode",
+          "href": "http://192.168.100.51/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties/productCode",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -240,7 +240,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties/productCode",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties/productCode",
           "contentType": "application/json",
           "op": [
             "readproperty"
@@ -248,7 +248,7 @@
           "htv:methodName": "GET"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties/productCode",
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties/productCode",
           "contentType": "application/cbor",
           "op": [
             "readproperty"
@@ -279,7 +279,7 @@
       ],
       "forms": [
         {
-          "href": "http://150.65.179.132:8080/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties/openingDetectionStatus2",
+          "href": "http://192.168.100.51/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties/openingDetectionStatus2",
           "contentType": "application/json",
           "op": [
             "readproperty",
@@ -287,41 +287,7 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties/openingDetectionStatus2/observable",
-          "contentType": "application/json",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.179.132:8080/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties/openingDetectionStatus2",
-          "contentType": "application/cbor",
-          "op": [
-            "readproperty",
-            "writeproperty"
-          ]
-        },
-        {
-          "href": "http://150.65.179.132:8080/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties/openingDetectionStatus2/observable",
-          "contentType": "application/cbor",
-          "op": [
-            "observeproperty",
-            "unobserveproperty"
-          ],
-          "subprotocol": "longpoll"
-        },
-        {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties/openingDetectionStatus2",
-          "contentType": "application/json",
-          "op": [
-            "readproperty",
-            "writeproperty"
-          ]
-        },
-        {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties/openingDetectionStatus2/observable",
+          "href": "http://192.168.100.51/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties/openingDetectionStatus2/observable",
           "contentType": "application/json",
           "op": [
             "observeproperty",
@@ -330,7 +296,7 @@
           "subprotocol": "longpoll"
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties/openingDetectionStatus2",
+          "href": "http://192.168.100.51/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties/openingDetectionStatus2",
           "contentType": "application/cbor",
           "op": [
             "readproperty",
@@ -338,7 +304,41 @@
           ]
         },
         {
-          "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties/openingDetectionStatus2/observable",
+          "href": "http://192.168.100.51/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties/openingDetectionStatus2/observable",
+          "contentType": "application/cbor",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties/openingDetectionStatus2",
+          "contentType": "application/json",
+          "op": [
+            "readproperty",
+            "writeproperty"
+          ]
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties/openingDetectionStatus2/observable",
+          "contentType": "application/json",
+          "op": [
+            "observeproperty",
+            "unobserveproperty"
+          ],
+          "subprotocol": "longpoll"
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties/openingDetectionStatus2",
+          "contentType": "application/cbor",
+          "op": [
+            "readproperty",
+            "writeproperty"
+          ]
+        },
+        {
+          "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties/openingDetectionStatus2/observable",
           "contentType": "application/cbor",
           "op": [
             "observeproperty",
@@ -351,7 +351,7 @@
   },
   "forms": [
     {
-      "href": "http://150.65.179.132:8080/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties",
+      "href": "http://192.168.100.51/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties",
       "contentType": "application/json",
       "op": [
         "readallproperties",
@@ -361,7 +361,7 @@
       ]
     },
     {
-      "href": "http://150.65.179.132:8080/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties",
+      "href": "http://192.168.100.51/openclosesensor-matter-openclosesensor-6-3%40ba0256a6fea6c174/properties",
       "contentType": "application/cbor",
       "op": [
         "readallproperties",
@@ -371,7 +371,7 @@
       ]
     },
     {
-      "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties",
+      "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties",
       "contentType": "application/json",
       "op": [
         "readallproperties",
@@ -381,7 +381,7 @@
       ]
     },
     {
-      "href": "http://150.65.179.132:8080/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties",
+      "href": "http://192.168.100.51/urn%3Aechonet%3Aelapi%3AMatter-openCloseSensor-6-3%2540ba0256a6fea6c174/properties",
       "contentType": "application/cbor",
       "op": [
         "readallproperties",
