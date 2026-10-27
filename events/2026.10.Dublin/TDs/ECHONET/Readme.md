@@ -7,6 +7,8 @@
 #### Connection
 All devices connect to the event environment by SSH port forwarding through a host that has public IP address.
 
+Local relay IP address: `192.168.100.51`.
+
 ![ssh port forwarding](./port-forwarding.png)
 
 #### Devices
