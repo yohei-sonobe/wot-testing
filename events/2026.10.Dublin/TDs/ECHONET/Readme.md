@@ -11,6 +11,11 @@ Local relay IP address: `192.168.100.51`.
 
 ![ssh port forwarding](./port-forwarding.png)
 
+![Connection between Dublin and Ishikawa](./tpac2026-echonet-devices.png)
+
+Participants in Dublin can access the devices in Ishikawa through Yohei's PC.
+SSH port forwarding connects Yohei's PC and Xin's PC through AWS.
+
 #### Devices
 
 ![ECHONET remote devices in Ishikawa](./remote_devices.png)
